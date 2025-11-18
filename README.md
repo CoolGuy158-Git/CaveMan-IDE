@@ -6,7 +6,7 @@ CaveManIDE is a **minimalistic Python IDE** built with `customtkinter` and `tkin
 
 ## Screenshot
 
-![Description of the screenshot](Screenshot%202025-11-18%20164957.png)
+![An IDE with a minimalist design, and transparent bg](Screenshot%202025-11-18%20164957.png)
 
 
 ## Features
