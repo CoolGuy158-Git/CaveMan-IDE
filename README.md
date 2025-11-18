@@ -31,6 +31,15 @@ pip install customtkinter
 ```bash
 python CaveManIDE.py
 ```
+5. Optional, turn it into an EXE file
+
+```bash
+pip install pyinstaller
+```
+then
+```bash
+pyinstaller CaveManIDE.py --onefile --noconsole
+```
 
 ## Usage
 
