@@ -2,6 +2,8 @@ import customtkinter as ctk
 from tkinter import filedialog
 import subprocess
 
+# This stupid thing can't even run projects with python modules, HELP
+
 ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
 
